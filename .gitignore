@@ -124,3 +124,7 @@ _modules/*
 
 /results/
 /phpunit*.xml
+
+
+# But allow this folder or file
+!/public/assets/
